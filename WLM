@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<html>
+
+   <head>
+
+      <title>HTML Backgorund Color</title>
+
+   </head>
+  <h1>PENUGASAN WORKSHOP LITERASI MULTIMEDIA</h1>
+   <p>
+    <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" />
+  </p>
+</body>
+
+   <body style="background-color:pink;">
+
+      <h1>HALLO TEMAN-TEMAN DAN BAPAK ALI</h1>
+
+      <p>Semoga sehat selalu</p>
+  <head>
+    <title>mengganti background di atribut html bgcolor</title>
+  </head>
+  <body>
+    <table border="1" bgcolor="yellow">
+      <tr>
+        <th>KELAS</th>
+        <th>NAMA</th>
+        <th>NRP</th>
+		<tr>
+        <td>D3 MULTIMEDIA BROADCASTING B</td>
+        <td>BINTANG ALIFANANDA ALKIMI</td>
+        <td>5123500033</td>
+        </tr>
+        <tr>
+        <td>D3 MULTIMEDIA BROADCASTING B</td>
+        <td>LUTHFI AULIA ZULFAJRIYANTI</td>
+        <td>5123500051</td>
+      </tr>
+      <tr>
+        <td>D3 MULTIMEDIA BROADCASTING B</td>
+        <td>ANDINI FITRIA SYAVELLA</td>
+        <td>5123500058</td>
+      </tr>
+    </table>
+  </body>
+</html>
